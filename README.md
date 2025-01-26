@@ -1,4 +1,4 @@
-# cryogenic-digital-twin
+# Cryogenic-Digital-Twin
 
 ## Overview
 This project showcases a comprehensive AI/ML-based Digital Twin for a cryogenic chamber system. The pipeline (mentioned below) is designed to predict, analyze, and detect anomalies in critical system conditions like temperature and pressure:
